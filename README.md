@@ -1,3 +1,4 @@
+⚡ Built as a real-world SaaS dashboard UI foundation for scalable business applications.
 # QuickBooks-Style Dashboard (Phase 1 - Frontend)
 
 A premium-quality, pixel-accurate QuickBooks-inspired business dashboard built with React, Tailwind CSS, and Recharts.
